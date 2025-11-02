@@ -80,6 +80,6 @@ All preprocessing — normalization, reshaping, and one-hot encoding — is hand
 
 ```bash
 git clone https://github.com/yourusername/mnist-from-scratch.git
-cd mnist-from-scratch
-mnist_from_scratch
+cd digit_recognizer_from_scratch
+mnist_from_scratch.ipynb
 
